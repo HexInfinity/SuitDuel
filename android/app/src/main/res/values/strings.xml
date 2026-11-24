@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Suit Duel: 200</string>
+    <string name="title_activity_main">Suit Duel: 200</string>
+    <string name="package_name">com.hexinfinity.suitduel</string>
+    <string name="custom_url_scheme">com.hexinfinity.suitduel</string>
+</resources>

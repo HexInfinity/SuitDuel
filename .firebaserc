@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "hexinfinity-sakj"
+  },
+  "targets": {
+    "hexinfinity-sakj": {
+      "hosting": {
+        "suitduel": [
+          "suitduel"
+        ]
+      }
+    }
+  }
+}

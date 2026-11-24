@@ -1,0 +1,18 @@
+{
+  "name": "Suit Duel: 200",
+  "short_name": "Suit Duel",
+  "description": "Tactical 52-card duel to 200 HP Ascension or 0 HP Knockout.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#071e17",
+  "theme_color": "#071e17",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
