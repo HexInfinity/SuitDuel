@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace = "com.hexinfinity.suitduel"
+    namespace = "com.hexinfinity.SuitDuel"
     compileSdk = rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "com.hexinfinity.suitduel"
+        applicationId "com.hexinfinity.SuitDuel"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

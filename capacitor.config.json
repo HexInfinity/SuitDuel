@@ -1,5 +1,5 @@
 {
-  "appId": "com.hexinfinity.suitduel",
+  "appId": "com.hexinfinity.SuitDuel",
   "appName": "Suit Duel: 200",
   "webDir": "dist",
   "bundledWebRuntime": false,

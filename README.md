@@ -21,5 +21,5 @@ Mobile-first tactical 52-card duel game packaged with React, TypeScript, Vite, a
 Workflow: `.github/workflows/firebase-deploy.yml`
 - **Project**: `hexinfinity-sakj`
 - **Hosting target**: `suitduel`
-- **Android package**: `com.hexinfinity.suitduel`
+- **Android package**: `com.hexinfinity.SuitDuel`
 - Required GitHub repository secrets: `FIREBASE_TOKEN` and (for App Distribution) `FIREBASE_ANDROID_APP_ID`.

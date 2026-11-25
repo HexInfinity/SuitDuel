@@ -1,4 +1,4 @@
-package com.hexinfinity.suitduel;
+package com.hexinfinity.SuitDuel;
 
 import com.getcapacitor.BridgeActivity;
 
