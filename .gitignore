@@ -1,5 +1,6 @@
 node_modules/
 dist/
 android/app/build/
+.firebase/
 .DS_Store
 *.local
